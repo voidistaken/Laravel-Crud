@@ -19,7 +19,7 @@
               </div>
 
               <div class="form-group">
-                <label>Tele</label>
+                <label>Telephone</label>
                 <input type="text" name="phone" class="form-control" value="{{$client->phone}}">
               </div>
 
